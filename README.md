@@ -1,17 +1,11 @@
-# js-kata-starter
+# snail
 
-Starter project for kata (Node, TypeScript, Jest)
+Display an ascending sequence of numbers from `1` to `n` as a snail, assuming `n` is a non-nul, natural integer.
 
-## Installation
+E.g., for `n` = 10:
 
-```shell
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
-npm install
 ```
-
-## Development
-
-```shell
-npm test
+7  8  9  10
+6  1  2
+5  4  3
 ```
