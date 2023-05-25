@@ -1,4 +1,5 @@
-import rotate, { Matrix } from ".";
+import rotate from ".";
+import { Matrix } from "../types";
 
 describe("Test of rotate()", () => {
   test("180°/Pi rotation", () => {
